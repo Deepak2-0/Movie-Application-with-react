@@ -124,6 +124,7 @@ button:hover {
 }
 #shape {
   width: 50px;
-  font-size: 30px;
+  font-size: 22px;
   padding: 2px;
+  padding-bottom: 4px;
 }
