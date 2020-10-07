@@ -38,7 +38,7 @@ export default function App() {
     },
     {
       id: 5,
-      title: "Swades",
+      title: "Interstellar",
       rating: "8.6",
       actors:
         "Matthew McConaughey, Anne Hathaway, Jessica Chastain, Matt Damon",
